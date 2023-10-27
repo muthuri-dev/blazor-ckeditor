@@ -1,46 +1,46 @@
 ﻿@page "/"
-@* @using TextEditor.Data *@
-@* *@
-@* <h1>Welcome to My CKEditor Advance Version</h1> *@
-@* *@
-@* <EditForm Model="@editorOptions"> *@
-@*     <CKEditorBlazor Id="MyEditor1"  *@
-@*                     @bind-Value=@editorOptions.InitialText  *@
-@*                     UrlToPostImage="http://localhost:44301/api/qaiser/Upload"> *@
-@*     </CKEditorBlazor> *@
-@* </EditForm> *@
-@* *@
-@* *@
-@* @code { *@
-@*     EditorOptions editorOptions; *@
-@* *@
-@*     protected override async Task OnInitializedAsync() *@
-@*     { *@
-@*         editorOptions = new EditorOptions(); *@
-@*         editorOptions.InitialText = "Welcome to Qaiser Mehmood github editor5-blazor app"; *@
-@*         var txt = await Task.Run(() => 1); *@
-@*          *@
-@*     } *@
-@* } *@
+@using TextEditor.Data
 
-@inject NavigationManager navigation;
-<PageTitle>Index</PageTitle>
-<div class="text-center top-row px-4">
-    <div id="editor" class="border border-secondary h-25 bg-secondary bg-opacity-75"></div>
-</div>
-<div class="text-end">
-    <button class="btn btn-success" @onclick="Data">Preview</button>
-</div>
-Testing :@Name
+<h1>Welcome to My CKEditor Advance Version</h1>
 
-@code{
-    private string Name { get; set; } = string.Empty;
+<EditForm Model="@editorOptions">
+    <CKEditorBlazor Id="MyEditor1"
+                    @bind-Value=@editorOptions.InitialText
+                    UrlToPostImage="http://localhost:44301/api/qaiser/Upload">
+    </CKEditorBlazor>
+</EditForm>
 
-    private void Data()
+
+@code {
+    EditorOptions editorOptions;
+
+    protected override async Task OnInitializedAsync()
     {
-        Name = "Beryl";
-        navigation.NavigateTo("/data");
-    }
+        editorOptions = new EditorOptions();
+        editorOptions.InitialText = "Welcome to Qaiser Mehmood github editor5-blazor app";
+        var txt = await Task.Run(() => 1);
 
+    }
 }
+
+@* @inject NavigationManager navigation; *@
+@* <PageTitle>Index</PageTitle> *@
+@* <div class="text-center top-row px-4"> *@
+@*     <div id="editor" class="border border-secondary h-25 bg-secondary bg-opacity-75"></div> *@
+@* </div> *@
+@* <div class="text-end"> *@
+@*     <button class="btn btn-success" @onclick="Data">Preview</button> *@
+@* </div> *@
+@* Testing :@Name *@
+@* *@
+@* @code{ *@
+@*     private string Name { get; set; } = string.Empty; *@
+@* *@
+@*     private void Data() *@
+@*     { *@
+@*         Name = "Beryl"; *@
+@*         navigation.NavigateTo("/data"); *@
+@*     } *@
+@* *@
+@* } *@
 
