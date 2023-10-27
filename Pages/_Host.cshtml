@@ -1,0 +1,48 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@namespace TextEditor.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <base href="~/"/>
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css"/>
+    <link href="css/site.css" rel="stylesheet"/>
+    <link href="TextEditor.styles.css" rel="stylesheet"/>
+    <link rel="icon" type="image/png" href="favicon.png"/>
+    <component type="typeof(HeadOutlet)" render-mode="ServerPrerendered"/>
+    @* <style> *@
+    @*     .ck-editor__editable{ *@
+    @*         min-height:400px; *@
+    @*     } *@
+    @* </style> *@
+</head>
+<body>
+<component type="typeof(App)" render-mode="ServerPrerendered"/>
+<div id="blazor-error-ui">
+    <environment include="Staging,Production">
+        An error has occurred. This application may no longer respond until reloaded.
+    </environment>
+    <environment include="Development">
+        An unhandled exception has occurred. See browser dev tools for details.
+    </environment>
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>
+
+@* <script src="_framework/blazor.server.js"></script> *@
+@* <script src="~/js/ckeditor.js"></script> *@
+@* <script src="~/js/CKEditorInterop.js"></script> *@
+<script src="assets/vendor/ckeditor/build/ckeditor.js"></script>
+   <script>
+       BalloonEditor
+           .create( document.querySelector( '#editor' ) )
+           .catch( error => {
+               console.error( error );
+           } );
+   </script>
+</body>
+</html>

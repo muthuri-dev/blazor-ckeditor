@@ -1,0 +1,36 @@
+@* @inject NavigationManager navigation; *@
+@* <PageTitle>Index</PageTitle> *@
+@* <div class="text-center top-row px-4"> *@
+@*     <div id="editor" class="border border-secondary h-25 bg-secondary bg-opacity-75"></div> *@
+@* </div> *@
+@* <div class="text-end"> *@
+@*     $1$ <button class="btn btn-primary m-4 "> #1# *@
+@*     $1$     <NavLink class="nav-link text-white" href="data"> #1# *@
+@*     $1$         PREVIEW #1# *@
+@*     $1$     </NavLink> #1# *@
+@*     $1$ </button> #1# *@
+@*     <button class="btn btn-success" @onclick="Data">Preview</button> *@
+@* </div> *@
+@* Testing :@Name *@
+@* $1$ <Editor/> #1# *@
+@* *@
+@* @code{ *@
+@*     private string Name { get; set; } = string.Empty; *@
+@* *@
+@*     private void Data() *@
+@*     { *@
+@*         Name = "Beryl"; *@
+@*         // navigation.NavigateTo("/data"); *@
+@*     } *@
+@* *@
+@* } *@
+
+
+@* <script src="assets/vendor/ckeditor/build/ckeditor.js"></script> *@
+@*    <script> *@
+@*        BalloonEditor *@
+@*            .create( document.querySelector( '#editor' ) ) *@
+@*            .catch( error => { *@
+@*                console.error( error ); *@
+@*            } ); *@
+@*    </script> *@
