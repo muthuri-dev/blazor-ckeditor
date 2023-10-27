@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/TextEditor.csproj": {}
+    "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/TextEditor.csproj": {
+    "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/TextEditor.csproj",
+        "projectUniqueName": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/TextEditor.csproj",
-        "packagesPath": "/home/kennedy_muthuri/.nuget/packages/",
-        "outputPath": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/",
+        "projectPath": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\TextEditor.csproj",
+        "packagesPath": "C:\\Users\\jkish\\.nuget\\packages\\",
+        "outputPath": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/kennedy_muthuri/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jkish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,12 +62,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.11, 7.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

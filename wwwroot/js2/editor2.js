@@ -1,7 +1,7 @@
-Blazor.start().then(function (){
+Blazor.start().then(function () {
     BalloonEditor
-        .create( document.querySelector( '#editor' ) )
-        .catch( error => {
-            console.error( error );
-        } );
+        .create(document.querySelector('#editor'))
+        .catch(error => {
+            console.error(error);
+        });
 })

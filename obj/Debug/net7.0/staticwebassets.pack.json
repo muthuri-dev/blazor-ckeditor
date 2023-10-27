@@ -1,427 +1,427 @@
 {
   "Files": [
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/projectbundle/TextEditor.bundle.scp.css",
-      "PackagePath": "staticwebassets/TextEditor.bundle.scp.css"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TextEditor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TextEditor.bundle.scp.css"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/LICENSE.md",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/LICENSE.md"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\LICENSE.md"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/README.md",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/README.md"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\README.md"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/ckeditor.d.ts",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/ckeditor.d.ts"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\ckeditor.d.ts"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/ckeditor.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/ckeditor.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\ckeditor.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/ckeditor.js.map",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/ckeditor.js.map"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\ckeditor.js.map"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/af.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/af.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\af.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\af.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ar.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ar.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ar.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ast.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ast.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ast.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/az.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/az.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\az.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\az.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/bg.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/bg.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\bg.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/bn.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/bn.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\bn.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/bs.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/bs.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\bs.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ca.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ca.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ca.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/cs.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/cs.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\cs.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/da.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/da.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\da.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\da.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/de-ch.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/de-ch.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\de-ch.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/de.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/de.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\de.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\de.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/el.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/el.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\el.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\el.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/en-au.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/en-au.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\en-au.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/en-gb.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/en-gb.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\en-gb.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/eo.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/eo.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\eo.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/es-co.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/es-co.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\es-co.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/es.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/es.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\es.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\es.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/et.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/et.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\et.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\et.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/eu.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/eu.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\eu.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/fa.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/fa.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\fa.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/fi.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/fi.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\fi.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/fr.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/fr.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\fr.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/gl.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/gl.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\gl.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/gu.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/gu.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\gu.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/he.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/he.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\he.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\he.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hi.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/hi.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\hi.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hr.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/hr.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\hr.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hu.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/hu.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\hu.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hy.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/hy.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\hy.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/id.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/id.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\id.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\id.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/it.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/it.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\it.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\it.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ja.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ja.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ja.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/jv.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/jv.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\jv.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/kk.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/kk.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\kk.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/km.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/km.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\km.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\km.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/kn.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/kn.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\kn.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ko.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ko.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ko.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ku.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ku.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ku.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/lt.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/lt.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\lt.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/lv.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/lv.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\lv.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ms.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ms.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ms.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/nb.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/nb.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\nb.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ne.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ne.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ne.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/nl.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/nl.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\nl.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/no.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/no.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\no.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\no.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/oc.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/oc.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\oc.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/pl.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/pl.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\pl.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/pt-br.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/pt-br.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\pt-br.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/pt.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/pt.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\pt.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ro.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ro.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ro.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ru.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ru.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ru.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/si.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/si.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\si.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\si.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sk.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/sk.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\sk.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sl.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/sl.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\sl.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sq.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/sq.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\sq.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sr-latn.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/sr-latn.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\sr-latn.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sr.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/sr.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\sr.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sv.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/sv.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\sv.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/th.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/th.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\th.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\th.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/tk.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/tk.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\tk.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/tr.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/tr.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\tr.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/tt.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/tt.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\tt.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ug.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ug.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ug.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/uk.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/uk.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\uk.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ur.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/ur.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\ur.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/uz.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/uz.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\uz.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/vi.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/vi.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\vi.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/zh-cn.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/zh-cn.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\zh-cn.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/zh.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/build/translations/zh.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\build\\translations\\zh.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/package.json",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/package.json"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\package.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\package.json"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.css",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.css"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.css"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/index.html",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/sample/index.html"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\index.html",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\sample\\index.html"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/script.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/sample/script.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\script.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\sample\\script.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/styles.css",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/sample/styles.css"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\sample\\styles.css"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/src/ckeditor.ts",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/src/ckeditor.ts"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\src\\ckeditor.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\src\\ckeditor.ts"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/tsconfig.json",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/tsconfig.json"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\tsconfig.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\tsconfig.json"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/webpack.config.js",
-      "PackagePath": "staticwebassets/assets/vendor/ckeditor/webpack.config.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\webpack.config.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\ckeditor\\webpack.config.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/FONT-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/ICON-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/README.md",
-      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js/CKEditorInterop.js",
-      "PackagePath": "staticwebassets/js/CKEditorInterop.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js2\\editor2.js",
+      "PackagePath": "staticwebassets\\js2\\editor2.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js/ckeditor.js",
-      "PackagePath": "staticwebassets/js/ckeditor.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js\\CKEditorInterop.js",
+      "PackagePath": "staticwebassets\\js\\CKEditorInterop.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js/ckeditor.js.map",
-      "PackagePath": "staticwebassets/js/ckeditor.js.map"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js\\ckeditor.js",
+      "PackagePath": "staticwebassets\\js\\ckeditor.js"
     },
     {
-      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js2/editor2.js",
-      "PackagePath": "staticwebassets/js2/editor2.js"
+      "Id": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\js\\ckeditor.js.map"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TextEditor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TextEditor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.TextEditor.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TextEditor.props",
       "PackagePath": "build\\TextEditor.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TextEditor.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TextEditor.props",
       "PackagePath": "buildMultiTargeting\\TextEditor.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TextEditor.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TextEditor.props",
       "PackagePath": "buildTransitive\\TextEditor.props"
     }
   ],

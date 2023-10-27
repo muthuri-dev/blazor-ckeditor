@@ -23,6 +23,8 @@
 @*     } *@
 @* } *@
 
+
+@inject IJSRuntime jsRuntime
 @inject NavigationManager navigation;
 <PageTitle>Index</PageTitle>
 <Editorr/>
@@ -32,12 +34,21 @@
 Testing :@Name
 
 @code{
+    //protected override async Task OnAfterRenderAsync(bool firstRender)
+    //{
+    //    if (firstRender)
+    //    {
+    //        await jsRuntime.InvokeVoidAsync("CKEditorInvoke");
+    //        Console.WriteLine("First Render");
+    //    }
+    //}
+
     private string Name { get; set; } = string.Empty;
 
     private void Data()
     {
         Name = "Beryl";
-        // navigation.NavigateTo("/data");
+        navigation.NavigateTo("/data");
     }
 
 }
