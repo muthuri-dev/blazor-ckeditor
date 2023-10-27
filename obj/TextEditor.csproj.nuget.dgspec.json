@@ -38,9 +38,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "CKEditor": {
+            "TinyMCE.Blazor": {
               "target": "Package",
-              "version": "[3.6.4, )"
+              "version": "[1.0.4, )"
             }
           },
           "imports": [

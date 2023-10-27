@@ -30,3 +30,5 @@
 /home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/TextEditor.pdb
 /home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
 /home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
+/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/bin/Debug/net7.0/TinyMCE.Blazor.dll
+/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CopyComplete

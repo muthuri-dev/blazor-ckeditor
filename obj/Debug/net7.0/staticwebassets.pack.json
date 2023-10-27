@@ -405,6 +405,10 @@
       "PackagePath": "staticwebassets/js/ckeditor.js.map"
     },
     {
+      "Id": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js2/editor2.js",
+      "PackagePath": "staticwebassets/js2/editor2.js"
+    },
+    {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TextEditor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

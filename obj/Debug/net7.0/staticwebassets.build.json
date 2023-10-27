@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9q939xh7n5lYl626ZWEYxJY6yAm+de1UfZp6t7T2v3c=",
+  "Hash": "OjOVU+AXOKmLN80wxcOvJEUU2RpKbQvbFmfMR8umZaw=",
   "Source": "TextEditor",
   "BasePath": "_content/TextEditor",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/tinymce-blazor.js",
+      "SourceId": "TinyMCE.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/",
+      "BasePath": "_content/TinyMCE.Blazor",
+      "RelativePath": "tinymce-blazor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/tinymce-blazor.js"
+    },
+    {
+      "Identity": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/TinyMce.Blazor.lib.module.js",
+      "SourceId": "TinyMCE.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/",
+      "BasePath": "_content/TinyMCE.Blazor",
+      "RelativePath": "TinyMce.Blazor.lib.module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/TinyMce.Blazor.lib.module.js"
+    },
     {
       "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/bundle/TextEditor.styles.css",
       "SourceId": "TextEditor",
@@ -1749,6 +1783,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/CKEditorInterop.js"
+    },
+    {
+      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js2/editor2.js",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "js2/editor2.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js2/editor2.js"
     }
   ]
 }

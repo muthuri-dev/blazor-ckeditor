@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CKEditor" Version="3.6.4" />
+    <PackageReference Include="TinyMCE.Blazor" Version="1.0.4" />
   </ItemGroup>
 
   <ItemGroup>

@@ -25,11 +25,9 @@
 
 @inject NavigationManager navigation;
 <PageTitle>Index</PageTitle>
-<div class="text-center top-row px-4">
-    <div id="editor" class="border border-secondary h-25 bg-secondary bg-opacity-75"></div>
-</div>
-<div class="text-end">
-    <button class="btn btn-success" @onclick="Data">Preview</button>
+<Editorr/>
+<div class="text-center">
+    <button class="btn btn-success m-4" @onclick="Data">Preview</button>
 </div>
 Testing :@Name
 
@@ -39,7 +37,7 @@ Testing :@Name
     private void Data()
     {
         Name = "Beryl";
-        navigation.NavigateTo("/data");
+        // navigation.NavigateTo("/data");
     }
 
 }

@@ -12,4 +12,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/home/kennedy_muthuri/.nuget/packages/" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)tinymce.blazor/1.0.4/buildTransitive/TinyMCE.Blazor.props" Condition="Exists('$(NuGetPackageRoot)tinymce.blazor/1.0.4/buildTransitive/TinyMCE.Blazor.props')" />
+  </ImportGroup>
 </Project>

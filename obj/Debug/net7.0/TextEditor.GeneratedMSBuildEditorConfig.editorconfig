@@ -20,8 +20,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/Components/Editor.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9FZGl0b3IucmF6b3I=
+[/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/Components/Editorr.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9FZGl0b3JyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/Pages/Counter.razor]
