@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OjOVU+AXOKmLN80wxcOvJEUU2RpKbQvbFmfMR8umZaw=",
+  "Hash": "BbvG/eLstoJA9Jp8Rcw5J5jiqC65UAMTINmBv8iMwcc=",
   "Source": "TextEditor",
   "BasePath": "_content/TextEditor",
   "Mode": "Default",
@@ -8,53 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TextEditor/wwwroot",
+      "Name": "TextEditor\\wwwroot",
       "Source": "TextEditor",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/tinymce-blazor.js",
-      "SourceId": "TinyMCE.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/",
-      "BasePath": "_content/TinyMCE.Blazor",
-      "RelativePath": "tinymce-blazor.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/tinymce-blazor.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/TinyMce.Blazor.lib.module.js",
-      "SourceId": "TinyMCE.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/",
-      "BasePath": "_content/TinyMCE.Blazor",
-      "RelativePath": "TinyMce.Blazor.lib.module.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/kennedy_muthuri/.nuget/packages/tinymce.blazor/1.0.4/staticwebassets/TinyMce.Blazor.lib.module.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/bundle/TextEditor.styles.css",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TextEditor.styles.css",
       "SourceId": "TextEditor",
       "SourceType": "Computed",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "TextEditor.styles.css",
       "AssetKind": "All",
@@ -65,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/bundle/TextEditor.styles.css"
+      "OriginalItemSpec": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TextEditor.styles.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/projectbundle/TextEditor.bundle.scp.css",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TextEditor.bundle.scp.css",
       "SourceId": "TextEditor",
       "SourceType": "Computed",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "TextEditor.bundle.scp.css",
       "AssetKind": "All",
@@ -82,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/obj/Debug/net7.0/scopedcss/projectbundle/TextEditor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TextEditor.bundle.scp.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/ckeditor.d.ts",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.d.ts",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/ckeditor.d.ts",
       "AssetKind": "All",
@@ -99,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/ckeditor.d.ts"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.d.ts"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/ckeditor.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/ckeditor.js",
       "AssetKind": "All",
@@ -116,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/ckeditor.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/ckeditor.js.map",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.js.map",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/ckeditor.js.map",
       "AssetKind": "All",
@@ -133,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/ckeditor.js.map"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\ckeditor.js.map"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/af.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\af.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/af.js",
       "AssetKind": "All",
@@ -150,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/af.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\af.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ar.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ar.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ar.js",
       "AssetKind": "All",
@@ -167,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ar.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ar.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ast.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ast.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ast.js",
       "AssetKind": "All",
@@ -184,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ast.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ast.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/az.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\az.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/az.js",
       "AssetKind": "All",
@@ -201,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/az.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\az.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/bg.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bg.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/bg.js",
       "AssetKind": "All",
@@ -218,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/bg.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bg.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/bn.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bn.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/bn.js",
       "AssetKind": "All",
@@ -235,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/bn.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bn.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/bs.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bs.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/bs.js",
       "AssetKind": "All",
@@ -252,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/bs.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\bs.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ca.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ca.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ca.js",
       "AssetKind": "All",
@@ -269,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ca.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ca.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/cs.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\cs.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/cs.js",
       "AssetKind": "All",
@@ -286,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/cs.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\cs.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/da.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\da.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/da.js",
       "AssetKind": "All",
@@ -303,30 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/da.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\da.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/de-ch.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\de.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
-      "BasePath": "_content/TextEditor",
-      "RelativePath": "assets/vendor/ckeditor/build/translations/de-ch.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/de-ch.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/de.js",
-      "SourceId": "TextEditor",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/de.js",
       "AssetKind": "All",
@@ -337,13 +286,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/de.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\de.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/el.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\de-ch.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "assets/vendor/ckeditor/build/translations/de-ch.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\de-ch.js"
+    },
+    {
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\el.js",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/el.js",
       "AssetKind": "All",
@@ -354,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/el.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\el.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/en-au.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\en-au.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/en-au.js",
       "AssetKind": "All",
@@ -371,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/en-au.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\en-au.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/en-gb.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\en-gb.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/en-gb.js",
       "AssetKind": "All",
@@ -388,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/en-gb.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\en-gb.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/eo.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\eo.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/eo.js",
       "AssetKind": "All",
@@ -405,30 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/eo.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\eo.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/es-co.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\es.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
-      "BasePath": "_content/TextEditor",
-      "RelativePath": "assets/vendor/ckeditor/build/translations/es-co.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/es-co.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/es.js",
-      "SourceId": "TextEditor",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/es.js",
       "AssetKind": "All",
@@ -439,13 +388,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/es.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\es.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/et.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\es-co.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "assets/vendor/ckeditor/build/translations/es-co.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\es-co.js"
+    },
+    {
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\et.js",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/et.js",
       "AssetKind": "All",
@@ -456,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/et.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\et.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/eu.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\eu.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/eu.js",
       "AssetKind": "All",
@@ -473,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/eu.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\eu.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/fa.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fa.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/fa.js",
       "AssetKind": "All",
@@ -490,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/fa.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fa.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/fi.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fi.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/fi.js",
       "AssetKind": "All",
@@ -507,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/fi.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fi.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/fr.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fr.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/fr.js",
       "AssetKind": "All",
@@ -524,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/fr.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\fr.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/gl.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\gl.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/gl.js",
       "AssetKind": "All",
@@ -541,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/gl.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\gl.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/gu.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\gu.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/gu.js",
       "AssetKind": "All",
@@ -558,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/gu.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\gu.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/he.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\he.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/he.js",
       "AssetKind": "All",
@@ -575,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/he.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\he.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hi.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hi.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/hi.js",
       "AssetKind": "All",
@@ -592,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/hi.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hi.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hr.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hr.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/hr.js",
       "AssetKind": "All",
@@ -609,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/hr.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hr.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hu.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hu.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/hu.js",
       "AssetKind": "All",
@@ -626,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/hu.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hu.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/hy.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hy.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/hy.js",
       "AssetKind": "All",
@@ -643,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/hy.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\hy.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/id.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\id.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/id.js",
       "AssetKind": "All",
@@ -660,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/id.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\id.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/it.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\it.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/it.js",
       "AssetKind": "All",
@@ -677,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/it.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\it.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ja.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ja.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ja.js",
       "AssetKind": "All",
@@ -694,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ja.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ja.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/jv.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\jv.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/jv.js",
       "AssetKind": "All",
@@ -711,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/jv.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\jv.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/kk.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\kk.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/kk.js",
       "AssetKind": "All",
@@ -728,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/kk.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\kk.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/km.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\km.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/km.js",
       "AssetKind": "All",
@@ -745,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/km.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\km.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/kn.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\kn.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/kn.js",
       "AssetKind": "All",
@@ -762,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/kn.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\kn.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ko.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ko.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ko.js",
       "AssetKind": "All",
@@ -779,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ko.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ko.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ku.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ku.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ku.js",
       "AssetKind": "All",
@@ -796,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ku.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ku.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/lt.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\lt.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/lt.js",
       "AssetKind": "All",
@@ -813,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/lt.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\lt.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/lv.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\lv.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/lv.js",
       "AssetKind": "All",
@@ -830,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/lv.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\lv.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ms.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ms.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ms.js",
       "AssetKind": "All",
@@ -847,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ms.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ms.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/nb.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\nb.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/nb.js",
       "AssetKind": "All",
@@ -864,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/nb.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\nb.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ne.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ne.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ne.js",
       "AssetKind": "All",
@@ -881,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ne.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ne.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/nl.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\nl.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/nl.js",
       "AssetKind": "All",
@@ -898,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/nl.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\nl.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/no.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\no.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/no.js",
       "AssetKind": "All",
@@ -915,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/no.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\no.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/oc.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\oc.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/oc.js",
       "AssetKind": "All",
@@ -932,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/oc.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\oc.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/pl.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pl.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/pl.js",
       "AssetKind": "All",
@@ -949,30 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/pl.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pl.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/pt-br.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pt.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
-      "BasePath": "_content/TextEditor",
-      "RelativePath": "assets/vendor/ckeditor/build/translations/pt-br.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/pt-br.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/pt.js",
-      "SourceId": "TextEditor",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/pt.js",
       "AssetKind": "All",
@@ -983,13 +932,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/pt.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pt.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ro.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pt-br.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "assets/vendor/ckeditor/build/translations/pt-br.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\pt-br.js"
+    },
+    {
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ro.js",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ro.js",
       "AssetKind": "All",
@@ -1000,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ro.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ro.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ru.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ru.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ru.js",
       "AssetKind": "All",
@@ -1017,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ru.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ru.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/si.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\si.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/si.js",
       "AssetKind": "All",
@@ -1034,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/si.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\si.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sk.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sk.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/sk.js",
       "AssetKind": "All",
@@ -1051,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/sk.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sk.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sl.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sl.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/sl.js",
       "AssetKind": "All",
@@ -1068,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/sl.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sl.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sq.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sq.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/sq.js",
       "AssetKind": "All",
@@ -1085,30 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/sq.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sq.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sr-latn.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sr.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
-      "BasePath": "_content/TextEditor",
-      "RelativePath": "assets/vendor/ckeditor/build/translations/sr-latn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/sr-latn.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sr.js",
-      "SourceId": "TextEditor",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/sr.js",
       "AssetKind": "All",
@@ -1119,13 +1068,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/sr.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sr.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/sv.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sr-latn.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "assets/vendor/ckeditor/build/translations/sr-latn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sr-latn.js"
+    },
+    {
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sv.js",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/sv.js",
       "AssetKind": "All",
@@ -1136,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/sv.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\sv.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/th.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\th.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/th.js",
       "AssetKind": "All",
@@ -1153,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/th.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\th.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/tk.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tk.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/tk.js",
       "AssetKind": "All",
@@ -1170,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/tk.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tk.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/tr.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tr.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/tr.js",
       "AssetKind": "All",
@@ -1187,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/tr.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tr.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/tt.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tt.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/tt.js",
       "AssetKind": "All",
@@ -1204,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/tt.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\tt.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ug.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ug.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ug.js",
       "AssetKind": "All",
@@ -1221,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ug.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ug.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/uk.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\uk.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/uk.js",
       "AssetKind": "All",
@@ -1238,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/uk.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\uk.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/ur.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ur.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/ur.js",
       "AssetKind": "All",
@@ -1255,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/ur.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\ur.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/uz.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\uz.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/uz.js",
       "AssetKind": "All",
@@ -1272,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/uz.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\uz.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/vi.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\vi.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/vi.js",
       "AssetKind": "All",
@@ -1289,30 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/vi.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\vi.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/zh-cn.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\zh.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
-      "BasePath": "_content/TextEditor",
-      "RelativePath": "assets/vendor/ckeditor/build/translations/zh-cn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/zh-cn.js"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/build/translations/zh.js",
-      "SourceId": "TextEditor",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/build/translations/zh.js",
       "AssetKind": "All",
@@ -1323,13 +1272,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/build/translations/zh.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\zh.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/LICENSE.md",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\zh-cn.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "assets/vendor/ckeditor/build/translations/zh-cn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\build\\translations\\zh-cn.js"
+    },
+    {
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\LICENSE.md",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/LICENSE.md",
       "AssetKind": "All",
@@ -1340,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\LICENSE.md"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/package.json",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\package.json",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/package.json",
       "AssetKind": "All",
@@ -1357,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/package.json"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\package.json"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/README.md",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\README.md",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/README.md",
       "AssetKind": "All",
@@ -1374,13 +1340,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/README.md"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\README.md"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.css",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.css",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.css",
       "AssetKind": "All",
@@ -1391,13 +1357,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.css"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.js",
       "AssetKind": "All",
@@ -1408,13 +1374,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/sample/configuration-dialog/configuration-dialog.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\sample\\configuration-dialog\\configuration-dialog.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/index.html",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\index.html",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/sample/index.html",
       "AssetKind": "All",
@@ -1425,13 +1391,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/sample/index.html"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\sample\\index.html"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/script.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\script.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/sample/script.js",
       "AssetKind": "All",
@@ -1442,13 +1408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/sample/script.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\sample\\script.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/sample/styles.css",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\sample\\styles.css",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/sample/styles.css",
       "AssetKind": "All",
@@ -1459,13 +1425,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/sample/styles.css"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\sample\\styles.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/src/ckeditor.ts",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\src\\ckeditor.ts",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/src/ckeditor.ts",
       "AssetKind": "All",
@@ -1476,13 +1442,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/src/ckeditor.ts"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\src\\ckeditor.ts"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/tsconfig.json",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\tsconfig.json",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/tsconfig.json",
       "AssetKind": "All",
@@ -1493,13 +1459,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/tsconfig.json"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\tsconfig.json"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/assets/vendor/ckeditor/webpack.config.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\assets\\vendor\\ckeditor\\webpack.config.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "assets/vendor/ckeditor/webpack.config.js",
       "AssetKind": "All",
@@ -1510,13 +1476,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/vendor/ckeditor/webpack.config.js"
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\ckeditor\\webpack.config.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1527,13 +1493,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1544,30 +1510,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
-      "BasePath": "_content/TextEditor",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
-    },
-    {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "SourceId": "TextEditor",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1578,13 +1527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1595,13 +1544,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1612,13 +1561,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1629,13 +1578,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1646,13 +1595,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1663,13 +1612,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
+      "BasePath": "_content/TextEditor",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "TextEditor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1680,13 +1646,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/open-iconic/README.md",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1697,13 +1663,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/css/site.css",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\css\\site.css",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1714,13 +1680,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/favicon.png",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\favicon.png",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -1731,13 +1697,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
+      "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js/ckeditor.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js\\ckeditor.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "js/ckeditor.js",
       "AssetKind": "All",
@@ -1748,13 +1714,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/ckeditor.js"
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js/ckeditor.js.map",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js\\ckeditor.js.map",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "js/ckeditor.js.map",
       "AssetKind": "All",
@@ -1765,13 +1731,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/ckeditor.js.map"
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor.js.map"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js/CKEditorInterop.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js\\CKEditorInterop.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "js/CKEditorInterop.js",
       "AssetKind": "All",
@@ -1782,13 +1748,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/CKEditorInterop.js"
+      "OriginalItemSpec": "wwwroot\\js\\CKEditorInterop.js"
     },
     {
-      "Identity": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/js2/editor2.js",
+      "Identity": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\js2\\editor2.js",
       "SourceId": "TextEditor",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/kennedy_muthuri/Developer/Practice/BlazorApps/TextEditor/wwwroot/",
+      "ContentRoot": "C:\\_SharedRepos\\KennedyMuthuri\\BlazorCKeditor\\wwwroot\\",
       "BasePath": "_content/TextEditor",
       "RelativePath": "js2/editor2.js",
       "AssetKind": "All",
@@ -1799,7 +1765,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js2/editor2.js"
+      "OriginalItemSpec": "wwwroot\\js2\\editor2.js"
+    },
+    {
+      "Identity": "C:\\Users\\jkish\\.nuget\\packages\\tinymce.blazor\\1.0.4\\staticwebassets\\TinyMce.Blazor.lib.module.js",
+      "SourceId": "TinyMCE.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\jkish\\.nuget\\packages\\tinymce.blazor\\1.0.4\\staticwebassets\\",
+      "BasePath": "_content/TinyMCE.Blazor",
+      "RelativePath": "TinyMce.Blazor.lib.module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jkish\\.nuget\\packages\\tinymce.blazor\\1.0.4\\staticwebassets\\TinyMce.Blazor.lib.module.js"
+    },
+    {
+      "Identity": "C:\\Users\\jkish\\.nuget\\packages\\tinymce.blazor\\1.0.4\\staticwebassets\\tinymce-blazor.js",
+      "SourceId": "TinyMCE.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\jkish\\.nuget\\packages\\tinymce.blazor\\1.0.4\\staticwebassets\\",
+      "BasePath": "_content/TinyMCE.Blazor",
+      "RelativePath": "tinymce-blazor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jkish\\.nuget\\packages\\tinymce.blazor\\1.0.4\\staticwebassets\\tinymce-blazor.js"
     }
   ]
 }

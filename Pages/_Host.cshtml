@@ -30,5 +30,16 @@
 <script src="_framework/blazor.server.js" autostart="false"></script>
 <script src="assets/vendor/ckeditor/build/ckeditor.js"></script>
 <script src="js2/editor2.js" ></script>
+<script>
+    function CKEditorInvoke() {
+            BalloonEditor
+                .create(document.querySelector('#editor'))
+                .catch(error => {
+                    console.error(error);
+                });
+
+            //alert("Hello Blazor School")
+        }
+</script>
 </body>
 </html>
